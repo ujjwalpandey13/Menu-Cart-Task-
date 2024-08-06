@@ -36,7 +36,7 @@ This repository contains a project for a dynamic menu cart system. The applicati
 ![Screenshot 2024-08-06 123057](https://github.com/user-attachments/assets/562fdc8c-2616-4493-8530-48b0e67a4bf5)
 
 
-# Cart- List , Removing Menu with realtime fearture
+# Cart- List , Removing Menu with realtime feature
 
 ![Screenshot 2024-08-06 123117](https://github.com/user-attachments/assets/c8b7087a-e329-4b2e-8b05-607a549408d9)
 
