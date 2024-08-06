@@ -29,43 +29,14 @@ This repository contains a project for a dynamic menu cart system. The applicati
 2. **API Interaction:** The frontend communicates with the backend API built with Node.js and Express.js to fetch and update data.
 3. **Database Operations:** The backend interacts with the MySQL database to manage and store menu item and cart data.
 
-## Getting Started
 
-1. **Clone the Repository:**
+### Output
 
-   ```bash
-   git clone [GitHub Repository URL]
-   ```
+# Menu-List with Adding with realtime feature
+![Screenshot 2024-08-06 123057](https://github.com/user-attachments/assets/562fdc8c-2616-4493-8530-48b0e67a4bf5)
 
-2. **Install Dependencies:**
 
-   - For the backend:
+# Cart- List with Removing  with realtimefearture
 
-     ```bash
-     cd backend
-     npm install
-     ```
-
-   - For the frontend:
-
-     ```bash
-     cd frontend
-     npm install
-     ```
-
-3. **Run the Application:**
-
-   - Start the backend server:
-
-     ```bash
-     cd backend
-     npm start
-     ```
-
-   - Start the frontend server:
-
-     ```bash
-     cd frontend
-     npm start
-     ```
+![Screenshot 2024-08-06 123117](https://github.com/user-attachments/assets/c8b7087a-e329-4b2e-8b05-607a549408d9)
 
